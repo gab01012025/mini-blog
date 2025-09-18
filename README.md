@@ -1,7 +1,7 @@
 # 📝 Mini Blog
 
 A simple and modern **blog application** built with **React** and **Firebase**.  
-This project was developed as part of the course _"React do Zero à Maestria"_ by Matheus Battisti, and it demonstrates how to build a complete CRUD application with authentication, routes, and user dashboard.
+It demonstrates how to build a complete CRUD application with authentication, routes, and user dashboard.
 
 ---
 
@@ -62,7 +62,9 @@ You can deploy this project for free using:
 
 Vercel
 
-👉 Live Demo: coming soon...
+## 🌍 Live Demo
+
+👉 [mini-blog.vercel.app](https://mini-blog-neon-mu.vercel.app/)
 
 📌 Project Status
 
@@ -72,3 +74,5 @@ Vercel
 👨‍💻 Author
 
 Developed by Gabriel Gomes Santos Barreto.
+GitHub: https://github.com/gab01012025
+LinkedIn: https://www.linkedin.com/in/gabriel-barreto-610a72370
